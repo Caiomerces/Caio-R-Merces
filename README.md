@@ -1,4 +1,4 @@
-# Caio Rogério
+😎 # Caio Rogério
 
 ![PC Gamer](https://www.comececomopedireito.com.br/blog/wp-content/uploads/2024/02/analise-de-dados-com-power-bi.jpg)
 
