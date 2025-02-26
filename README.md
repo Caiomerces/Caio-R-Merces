@@ -1,6 +1,6 @@
 ## Caio Rogério
 
-![PC Gamer](https://www.comececomopedireito.com.br/blog/wp-content/uploads/2024/02/analise-de-dados-com-power-bi.jpg)
+![Dados](https://www.comececomopedireito.com.br/blog/wp-content/uploads/2024/02/analise-de-dados-com-power-bi.jpg)
 
 Aspiring Data Analyst, passionate about extracting insights from data and transforming raw information into meaningful decisions. Currently exploring various tools and technologies in data analytics, including SQL, Python, and visualization techniques.
 
